@@ -1,0 +1,7 @@
+{
+  "securityHeaders": {
+    "Content-Security-Policy": "default-src 'self'; script-src 'self' 'unsafe-inline' https://pokeapi.co; connect-src 'self' https://pokeapi.co; img-src 'self' data:; style-src 'self' 'unsafe-inline'; font-src 'self';",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Referrer-Policy": "no-referrer"
+  }
+}
